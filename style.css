@@ -1,0 +1,25 @@
+body{
+    color:rgb(43, 20, 2);
+    background:rgb(241, 168, 71);
+    margin: 0px;
+    font-family: "Playwrite Deutschland Grundschrift Guides",sans-serif;
+}
+
+header{
+   border-bottom: solid 2px rgb(207, 19, 19) ;
+   padding:20px;
+   font-size: 32px;
+   color:  rgb(100, 99, 4)
+}
+
+
+section{
+    background: rgb(238, 136, 20);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
